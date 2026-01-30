@@ -1,3 +1,4 @@
+<img align="right" src="https://github.com/AdnanNasim321/AdnanNasim321/blob/main/profile.jpg" width="220" />
 <h1 align="center">Hi 👋, I'm Md Adnan Nasim</h1>
 <h3 align="center">🚀 Future Software Engineer | 💻 Full Stack Developer | 🧠 DSA Enthusiast</h3>
 
