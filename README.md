@@ -1,5 +1,4 @@
- # 💫About Me : I"m Md Adnan Nasim
- Aspiring Full Stack Web Developer
+ # 💫About Me : I'm Md Adnan Nasim
 
 I’m currently working on :<br>Full Stack Web Development and improving my DSA skills<br>Java / C++ problem solving<br>Small projects to strengthen core CS concepts<br>Improving logic building & coding consistency<br>I’m looking to collaborate on :<br>Beginner-friendly open source projects<br>Web development projects (frontend/backend basics)<br>DSA study groups or coding partners<br>I’m looking for help with :<br>System Design basics<br>Writing clean and optimized code<br>Understanding real-world software development workflows<br>I’m currently learning :<br>DSA deeply for placements<br>Object-Oriented Programming<br>Git & GitHub properly<br>DBMS, OS, and Computer Networks fundamentals<br>Ask me about :<br>DSA questions<br>Java basics<br>Fun fact :<br>I overthink a lot but still show up daily to improve my coding skills.
 
